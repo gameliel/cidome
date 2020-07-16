@@ -1,0 +1,131 @@
+.navbar-collapse.collapse.show{
+     background-color: #00a550; 
+    padding: 10px;
+}
+
+@media only screen and (max-width: 991px)
+{
+   
+.text-left, .text-right
+{
+	text-align: center !important;
+}
+.mb4
+{
+	margin-bottom:1.5rem !important;
+}
+.btn-radius1
+{
+	padding: 12px 15px !important;
+}
+
+}
+@media only screen and (max-width: 768px){
+ 
+}
+@media only screen and (max-width:768px) { 
+    
+#bck{
+       display: none;
+    }
+figure.effect-sadie h4 { 
+       font-size: 12px 
+    }
+.mb-4.mb4
+{
+	margin-bottom:0;
+}
+.mb4
+{
+	margin-bottom:1.5rem !important;
+}
+.footer h6
+{
+	margin-top:1.5rem;
+}
+.btn-radius1
+{
+	padding: 10px 10px !important;
+}
+.h2, h2 {
+    font-size: 1.5rem;
+}
+.colsix .image-overlay span i {
+    background: rgba(255, 33, 79, .7) none repeat scroll 0 0;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 12px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    -webkit-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+    width: 30px;
+}
+    
+ #sidebar{
+    margin-left: 70px!important;
+    margin-top: 10px!important;
+}
+    
+    
+}
+@media only screen and (max-width:480px) { 
+    
+/* #masterslider{
+    height: 40vh!important;
+} 
+    .ms-slide{
+        height: 40vh!important;
+    }*/
+    
+.ms-slide p{    
+        margin-top: 5px!important;
+        font-size: 7px!important;
+        color: lightgray!important;
+    }
+.ms-slide h3{
+        margin-top: 10px!important;
+        font-size: 18px!important;
+    }  
+#home-text {
+    padding: 0%!important;
+}
+    
+    
+ #logo{
+        width: 70px;
+    }
+.inner-banner, .inner-banner2{
+    padding: 55px 50px;
+}
+.fountain,.gardens,.hills,.luxury,.events-banner,.paradise,.prime,.proj-banner {
+    padding: 65px 50px;
+}
+.spring-view-1
+{
+     padding: 55px 50px;
+}
+.spring-view-2
+{
+     padding: 55px 50px;
+}
+    
+    
+figure.effect-sadie h4 
+{ 
+	font-size: 18px;
+}
+nav.navbar.navbar-toggleable-md.navbar-expand-lg.py-3
+{
+	padding:0px !important;
+     background-color: #04A77D;
+}
+.btn-radius1
+{
+	padding: 8px 8px !important;
+}
+}
+@media only screen and (max-width:320px) { 
+    figure.effect-sadie h4 { font-size: 14px }
+}

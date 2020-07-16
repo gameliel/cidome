@@ -1,0 +1,144 @@
+.sec-1{
+    width: 100%;
+    padding: 0 20px;
+}
+
+.satisfied-1{
+     background: url(../images/testimonials/1.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+
+}
+.satisfied-2{
+     background: url(../images/testimonials/2.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+
+}
+.satisfied-3{
+     background: url(../images/testimonials/3.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+
+}
+  
+.satisfied-4{
+     background: url(../images/testimonials/4.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}  
+.satisfied-5{
+     background: url(../images/testimonials/5.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+} 
+.satisfied-6{
+     background: url(../images/testimonials/6.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+} 
+.satisfied-7{
+     background: url(../images/testimonials/7.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+} 
+.satisfied-8{
+     background: url(../images/testimonials/8.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+} 
+.satisfied-9{
+     background: url(../images/testimonials/9.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+} 
+.satisfied-10{
+     background: url(../images/testimonials/10.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}
+.satisfied-11{
+     background: url(../images/testimonials/11.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}
+.satisfied-12{
+     background: url(../images/testimonials/12.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}
+.satisfied-13{
+     background: url(../images/testimonials/13.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}
+.satisfied-14{
+     background: url(../images/testimonials/14.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}
+.satisfied-15{
+     background: url(../images/testimonials/15.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}
+.satisfied-16{
+     background: url(../images/testimonials/16.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}
+.satisfied-17{
+     background: url(../images/testimonials/17.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+}
+
+
+@media only screen and (max-width:768px) { 
+.satisfied-1,.satisfied-2,.satisfied-3,.satisfied-4,.satisfied-5,.satisfied-6,.satisfied-7,.satisfied-8,.satisfied-9,.satisfied-10,.satisfied-11,.satisfied-12,.satisfied-13,.satisfied-14,.satisfied-15,.satisfied-16,.satisfied-17{
+    width: 100%;
+    height: 50vh;
+}
+#xmas-promo{
+       height: 40vh; 
+    }
+    
+.hide{
+    display: none;
+}
+    
+}
